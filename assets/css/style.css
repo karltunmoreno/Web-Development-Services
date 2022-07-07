@@ -32,9 +32,13 @@ header {
 }
 
 header h1 {
-  font-size: 50px;
-  color: var(--primary-color);
   margin: 0;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  color: rgb(23, 22, 22);
+  font-size: 65px;
+  letter-spacing: +5px;
+  line-height: 3;
+  text-align: center;
 }
 
 header a {
@@ -72,7 +76,7 @@ header nav ul li a:hover {
 
 header h1 {
   font-weight: bold;
-  font-size: 36px;
+  font-size: 50px;
   color: var(--primary-color);
   margin: 0;
   display: inline;
