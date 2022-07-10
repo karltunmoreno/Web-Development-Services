@@ -1,7 +1,7 @@
 :root {
   --primary-color: #1d191a;
   --secondary-color: #c3b563c2;
-  --tertiary-color: #0954eb;
+  --tertiary-color: #0f5bf4;
 }
 * {
   margin: 0;
@@ -16,7 +16,7 @@ body {
 /*Header styling */
 header {
   padding: 20px 35px;
-  background-color: var(--tertiary-color);
+  background-color: white;
   display: flex;
   justify-content: space-between;
   flex-wrap: wrap;
@@ -555,6 +555,36 @@ footer a {
 
 .flex-row {
   display: flex;
+}
+
+.linkedin {
+  height: 95px;
+  width: 95px;
+}
+.twitter {
+  height: 95px;
+  width: 95px;
+}
+.github {
+  height: 95px;
+  width: 95px;
+  color: rgb(66, 104, 238);
+}
+
+.logo {
+  height: 229px;
+  width: 600px;
+}
+
+footer h2 {
+  font-style: italic;
+  font-size: small;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  text-align: center;
+  justify-items: center;
+  justify-content: center;
+  width: 100%;
 }
 
 /* Media query for smaller screens */
