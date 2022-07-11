@@ -298,6 +298,15 @@ footer a {
   margin-bottom: 80px;
   text-align: center;
 }
+
+.map {
+  width: 80px;
+  height: 500px;
+  flex-wrap: wrap;
+
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
 /*Steps styling */
 .steps {
   background: var(--primary-color);
@@ -660,6 +669,14 @@ footer h2 {
     margin-right: 0;
     margin-top: 15px;
     margin-bottom: 15px;
+  }
+
+  .map {
+    flex: 0 40%;
+    margin-right: 0;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    justify-content: center;
   }
 
   .trainer-img::after,
