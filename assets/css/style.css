@@ -307,6 +307,20 @@ footer a {
   justify-content: space-between;
   flex-wrap: wrap;
 }
+
+.logo2 {
+  width: 220px;
+  height: 100px;
+  align-items: center;
+  margin-right: 50%;
+  display: flex;
+  flex-wrap: wrap;
+  -moz-background-clip: padding;
+  -webkit-background-clip: padding-box;
+  background-clip: padding-box;
+  text-align: center;
+}
+
 /*Steps styling */
 .steps {
   background: var(--primary-color);
