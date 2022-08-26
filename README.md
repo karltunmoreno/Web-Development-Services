@@ -18,22 +18,7 @@ This is a professional web-friendly  website for a web devlopement.  We offer cu
 <div align="center">
     <a href="https://karltunmoreno.github.io/Web-Development-Services/">
         
-    <a/>
-    <h3 align="center">
-        Web Development Services
-    </h3>
-    <p align="center">
-        A personal portfolio to be presented for the weeks challange
-        <br />
-        <a href="https://karltunmoreno.github.io/Web-Development-Services/">
-            <strong>Explore the docs</strong>
-        </a>
-        <br />
-        <br />
-        <a href="https://karltunmoreno.github.io/Web-Development-Services/">
-            View the site
-        </a>
-    </p>
+   
 </div>
 
 <!-- TABLE OF CONTENTS -->
