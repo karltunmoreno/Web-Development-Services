@@ -11,10 +11,10 @@ This is a professional web-friendly  website for a web devlopement.  We offer cu
 
 <!-- Project Power -->
 
+
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-
-https://karltunmoreno.github.io/My-Portfolio/assets/images/webdevlogo.jpg
+![Ss](https://karltunmoreno.github.io/My-Portfolio/assets/images/webdevlogo.jpg)
 
 <!-- Project Logo -->
 <br />
