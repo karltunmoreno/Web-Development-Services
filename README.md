@@ -13,6 +13,9 @@ This is a professional web-friendly  website for a web devlopement.  We offer cu
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
+
+https://karltunmoreno.github.io/My-Portfolio/assets/images/webdevlogo.jpg
+
 <!-- Project Logo -->
 <br />
 <div align="center">
