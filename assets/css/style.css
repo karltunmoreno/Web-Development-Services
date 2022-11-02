@@ -15,19 +15,19 @@ body {
 
 /*Header styling */
 header {
-  padding: 20px 35px;
-  background-color: white;
+  padding: 15px 25px;
+  background-color: rgb(255, 255, 255);
   display: flex;
   justify-content: space-between;
   flex-wrap: wrap;
   position: -webkit-sticky;
   position: sticky;
   top: 0;
-  background-image: url("../images/hero-bg.jpg");
+
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
-  background-position: 80%;
+  background-position: 50%;
   z-index: 9999;
 }
 
@@ -595,8 +595,8 @@ footer a {
 }
 
 .logo {
-  height: 229px;
-  width: 600px;
+  height: 75px;
+  width: 180px;
 }
 
 footer h2 {
