@@ -1,7 +1,8 @@
 # Web-Development-Services
-A USER is looking for web dev services. this is the spotWe
+
+A USER is looking for web dev services. this is the place.
 We build your website by creating a plan that works for you. Then we design and include maintenance service.
-This is a professional web-friendly  website for a web devlopement.  We offer custumized web design. The front end website was created using HTML and CSS.
+This is a professional web-friendly website for web devlopement services. We offer custumized web design. Front end website was created using HTML and CSS.
 
 <div id="top"><div>
 <!--
@@ -10,7 +11,6 @@ This is a professional web-friendly  website for a web devlopement.  We offer cu
 -->
 
 <!-- Project Power -->
-
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
@@ -39,9 +39,8 @@ This is a professional web-friendly  website for a web devlopement.  We offer cu
 </details>
 
 <!-- ABOUT THE PROJECT -->
-## About The Challange 
 
-
+## About The Challange
 
 ### The Task:
 
@@ -50,7 +49,7 @@ A Passion Project to service the public in need of a coding web programmer. This
 ### Criteria:
 
 - GIVEN I need to sample a potential coders previous work
-WHEN I load their web site,
+  WHEN I load their web site,
 - THEN I am presented with the Web sites name, a recent photo or avatar, and links to sections about them, their work, and how to contact them
 - WHEN I click one of the links in the navigation
 - THEN the UI scrolls to the corresponding section
@@ -73,25 +72,22 @@ Thank you for taking time looking at this readme page.
 
 Happy coding!
 
-
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- CONTACT -->
+
 ## Contact
 
-Karltun Moreno @    Karltunmoreno@gmail.com
+Karltun Moreno @ Karltunmoreno@gmail.com
 
 Project Link: [https://karltunmoreno.github.io/Web-Development-Services/](https://karltunmoreno.github.io/Web-Development-Services/)
 
 <!-- MARKDOWN LINKS & IMAGES -->
+
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/karltun-moreno-0a910a46/
 
-
 ## Features
 
--  Fully Responsive
--  HTML5 + CSS3
-
-
-
+- Fully Responsive
+- HTML5 + CSS3
