@@ -52,25 +52,11 @@ This is a professional web-friendly website for web devlopement services. We off
 
 A Passion Project to service the public in need of a coding web programmer. This site serves as a service site for web development services.
 
-### Criteria:
 
-- GIVEN I need to sample a potential coders previous work
-  WHEN I load their web site,
-- THEN I am presented with the Web sites name, a recent photo or avatar, and links to sections about them, their work, and how to contact them
-- WHEN I click one of the links in the navigation
-- THEN the UI scrolls to the corresponding section
-- WHEN I click on the link to the section about their work
-- THEN the UI scrolls to a section with titled images of the developer's applications
-- WHEN I am presented with the developer's first application
-- THEN that application's image should be larger in size than the others
-- WHEN I click on the images of the applications
-- THEN I am taken to that deployed application
-- WHEN I resize the page or view the site on various screens and devices
-- THEN I am presented with a responsive layout that adapts to my viewport
 
 ### What was done.
 
-My Web Development Services site with short bio of my recent achivements.
+My Web Development Services mock MVP site with short bio of my recent achivements.
 
 It also have links to Repos and projects I have done through links on site.
 
